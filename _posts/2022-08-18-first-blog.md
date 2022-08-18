@@ -1,6 +1,6 @@
 ---
 title: "First Blog!"
-date: 2022-08-18T12:00:00-04:00
+date: 2022-08-18 12:00:00 +01:00
 categories:
   - Azure AD
 tags:
