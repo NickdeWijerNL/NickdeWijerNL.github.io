@@ -2,7 +2,7 @@
 title: "First Blog!"
 date: 2022-08-18T12:00:000-04:00
 categories:
-  - Azure AD
+  - blog
 tags:
   - Azure AD
   - Autopilot
